@@ -1,0 +1,115 @@
+.titulo {
+  text-align: center;
+}
+
+.sobre {
+  padding: 15px;
+  border-radius: 10px 10px;
+  box-shadow: 1px 1px 5px 1px black;
+  font-family: Arial;
+}
+
+header {
+  border-radius: 10px 10px;
+  box-shadow: 1px 1px 5px 1px black;
+  background-color: #ff0000;
+  color: white;
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: Arial;
+  text-shadow: 2px 2px black;
+}
+
+h2,
+h3 {
+  color: #e60000;
+  font-family: Arial;
+  text-shadow: 1px 1px black;
+}
+
+.linguagens {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-size: 25px;
+  font-family: Arial;
+  text-shadow: 1px 1px black;
+}
+
+footer {
+  margin-top: 10px;
+  font-family: Arial;
+  background-color: #ce0000;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  width: 100%;
+  border-radius: 5px 5px;
+  box-shadow: 2px 2px 10px 2px black;
+}
+
+.img_linguagens {
+  margin-top: 10px;
+  margin-left: 20px;
+  box-shadow: 1px 1px 5px 1px black;
+  width: 3%;
+  padding: 3px;
+}
+
+.img_discord {
+  border-radius: 5px 5px;
+  box-shadow: 1px 1px 5px 1px black;
+  background-color: #ae0000;
+  color: white;
+  width: 5%;
+  padding: 5px;
+  padding-top: 9px;
+}
+
+.img_github {
+  margin-left: 14px;
+  border-radius: 5px 5px;
+  box-shadow: 1px 1px 5px 1px black;
+  background-color: #ae0000;
+  color: white;
+  width: 5%;
+  padding: 7px;
+}
+
+.img_youtuber {
+  margin-left: 15px;
+  border-radius: 5px 5px;
+  box-shadow: 1px 1px 5px 1px black;
+  background-color: #ae0000;
+  color: white;
+  width: 5%;
+  padding: 7px;
+}
+
+.img_certificado {
+  margin-top: 10px;
+  margin-left: 20px;
+  box-shadow: 1px 1px 5px 1px black;
+  width: 50%;
+  padding: 7px;
+}
+
+.certificado {
+  margin-left: 20px;
+  color: #da0000;
+  font-family: Arial;
+  font-size: 20px;
+  text-shadow: 1px 1px black;
+}
+
+.stek {
+  margin-top: 30px;
+  margin-left: 30px;
+  box-shadow: 1px 1px 5px 1px black;
+  width: 10%;
+  padding: 5px;
+}
